@@ -28,8 +28,8 @@ A python tool to calcualte a prospective-regionalized LCA of peri-UA areas detai
    #S0_Ammon_salts > N supplied from recovered ammonium salts and from mineral fertilizers, P from struvite and K from mineral fertilizer
    scen = 'S0_MinFert'
    #%store -r scen
-Select the right option for you.
 
+Select the right option for you.
 4. In the inputs folder find the file URBAG_LCIAs_ei391cutoff_20240409.xlsx and change the dummy numbers (ones in yellow highlighted cells) for the real mineral fertilizer footprints. 
 To reproduce our study we used ecoinvent v3.9.1. for indicated processes for mineral fertilizers.
 5. If you choose RUN_ALL.ipynb, select one scenario in this Notebook and run all cells.
