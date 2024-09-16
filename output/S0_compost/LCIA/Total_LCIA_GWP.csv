@@ -1,0 +1,28 @@
+,LCIA,database,product,Scenario,imp_cat,imp_yr
+2,background,ei391,Ammonium sulphate at WWTP,S0_compost,GWP100,0.0
+7,background,ei391,Struvite at WWTP,S0_compost,GWP100,0.0
+12,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,GWP100,-9349.05933930409
+17,background,ei391,"inorganic nitrogen fertiliser, as N",S0_compost,GWP100,5835.158525406918
+22,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_compost,GWP100,428.1720584332662
+27,background,ei391,"inorganic potassium fertiliser, as K2O",S0_compost,GWP100,2880.655844546098
+32,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_compost,GWP100,0.0
+37,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_compost,GWP100,0.0
+42,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,GWP100,-12202.039869367087
+47,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_compost,GWP100,5875.821198627733
+52,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,GWP100,434.9796091018266
+57,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_compost,GWP100,2835.1293016104746
+62,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_compost,GWP100,0.0
+67,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_compost,GWP100,0.0
+72,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,GWP100,-8572.754254403833
+77,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_compost,GWP100,5223.2099323161
+82,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,GWP100,373.35150566062237
+87,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_compost,GWP100,2497.2548704421333
+128,foreground,ei391,CH4,S0_compost,GWP100,0.0
+129,foreground,ei391,CO2,S0_compost,GWP100,0.0
+130,foreground,ei391,N2O,S0_compost,GWP100,8284.533629545223
+136,foreground,ei391_Image_SSP2_Base_50,CH4,S0_compost,GWP100,0.0
+137,foreground,ei391_Image_SSP2_Base_50,CO2,S0_compost,GWP100,0.0
+138,foreground,ei391_Image_SSP2_Base_50,N2O,S0_compost,GWP100,8284.533629545223
+144,foreground,ei391_Image_SSP2_RCP26_50,CH4,S0_compost,GWP100,0.0
+145,foreground,ei391_Image_SSP2_RCP26_50,CO2,S0_compost,GWP100,0.0
+146,foreground,ei391_Image_SSP2_RCP26_50,N2O,S0_compost,GWP100,8284.533629545223

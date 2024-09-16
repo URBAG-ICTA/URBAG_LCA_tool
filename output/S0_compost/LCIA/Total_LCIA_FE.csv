@@ -1,0 +1,22 @@
+,LCIA,database,product,Scenario,imp_cat,imp_yr
+1,background,ei391,Ammonium sulphate at WWTP,S0_compost,FE,0.0
+6,background,ei391,Struvite at WWTP,S0_compost,FE,0.0
+11,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,FE,-0.9687851006182813
+16,background,ei391,"inorganic nitrogen fertiliser, as N",S0_compost,FE,1.1946607084407623
+21,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_compost,FE,0.12373248338663523
+26,background,ei391,"inorganic potassium fertiliser, as K2O",S0_compost,FE,0.6001744264686876
+31,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_compost,FE,0.0
+36,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_compost,FE,0.0
+41,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,FE,-8.02582259718675
+46,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_compost,FE,1.6687999575151808
+51,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,FE,0.17417627650565742
+56,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_compost,FE,0.8522247069536193
+61,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_compost,FE,0.0
+66,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_compost,FE,0.0
+71,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,FE,-0.6278511796812559
+76,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_compost,FE,0.6880884859091388
+81,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,FE,0.07399057693380287
+86,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_compost,FE,0.3678185068097571
+126,foreground,ei391,Phosphate,S0_compost,FE,0.42383945551584157
+134,foreground,ei391_Image_SSP2_Base_50,Phosphate,S0_compost,FE,0.42383945551584157
+142,foreground,ei391_Image_SSP2_RCP26_50,Phosphate,S0_compost,FE,0.42383945551584157

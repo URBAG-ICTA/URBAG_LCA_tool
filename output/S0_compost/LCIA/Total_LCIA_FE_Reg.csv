@@ -1,0 +1,22 @@
+,LCIA,database,product,Scenario,imp_cat,imp_yr
+90,background,ei391,Ammonium sulphate at WWTP,S0_compost,FE_Reg,0.0
+92,background,ei391,Struvite at WWTP,S0_compost,FE_Reg,0.0
+94,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,FE_Reg,-0.9687851006182813
+96,background,ei391,"inorganic nitrogen fertiliser, as N",S0_compost,FE_Reg,1.1946607084407623
+98,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_compost,FE_Reg,0.12373248338663523
+100,background,ei391,"inorganic potassium fertiliser, as K2O",S0_compost,FE_Reg,0.6001744264686876
+102,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_compost,FE_Reg,0.0
+104,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_compost,FE_Reg,0.0
+106,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,FE_Reg,-8.02582259718675
+108,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_compost,FE_Reg,1.6687999575151808
+110,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,FE_Reg,0.17417627650565742
+112,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_compost,FE_Reg,0.8522247069536193
+114,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_compost,FE_Reg,0.0
+116,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_compost,FE_Reg,0.0
+118,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,FE_Reg,-0.6278511796812559
+120,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_compost,FE_Reg,0.6880884859091388
+122,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,FE_Reg,0.07399057693380287
+124,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_compost,FE_Reg,0.3678185068097571
+127,foreground,ei391,Phosphate,S0_compost,FE_Reg,0.000903873433619297
+135,foreground,ei391_Image_SSP2_Base_50,Phosphate,S0_compost,FE_Reg,0.000903873433619297
+143,foreground,ei391_Image_SSP2_RCP26_50,Phosphate,S0_compost,FE_Reg,0.000903873433619297

@@ -1,0 +1,151 @@
+,LCIA,database,product,Scenario,imp_cat,imp_yr
+0,background,ei391,Ammonium sulphate at WWTP,S0_compost,ADP,0.0
+1,background,ei391,Ammonium sulphate at WWTP,S0_compost,FE,0.0
+2,background,ei391,Ammonium sulphate at WWTP,S0_compost,GWP100,0.0
+3,background,ei391,Ammonium sulphate at WWTP,S0_compost,ME,0.0
+4,background,ei391,Ammonium sulphate at WWTP,S0_compost,WC,0.0
+5,background,ei391,Struvite at WWTP,S0_compost,ADP,0.0
+6,background,ei391,Struvite at WWTP,S0_compost,FE,0.0
+7,background,ei391,Struvite at WWTP,S0_compost,GWP100,0.0
+8,background,ei391,Struvite at WWTP,S0_compost,ME,0.0
+9,background,ei391,Struvite at WWTP,S0_compost,WC,0.0
+10,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,ADP,-0.054689660963379974
+11,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,FE,-0.9687851006182813
+12,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,GWP100,-9349.05933930409
+13,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,ME,-0.06616040140432906
+14,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,WC,-35.934027643381675
+15,background,ei391,"inorganic nitrogen fertiliser, as N",S0_compost,ADP,0.08336939621714885
+16,background,ei391,"inorganic nitrogen fertiliser, as N",S0_compost,FE,1.1946607084407623
+17,background,ei391,"inorganic nitrogen fertiliser, as N",S0_compost,GWP100,5835.158525406918
+18,background,ei391,"inorganic nitrogen fertiliser, as N",S0_compost,ME,1.1033735639163165
+19,background,ei391,"inorganic nitrogen fertiliser, as N",S0_compost,WC,151.2335216712826
+20,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_compost,ADP,0.005700502691237956
+21,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_compost,FE,0.12373248338663523
+22,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_compost,GWP100,428.1720584332662
+23,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_compost,ME,0.048749873469119194
+24,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_compost,WC,5.934757190262582
+25,background,ei391,"inorganic potassium fertiliser, as K2O",S0_compost,ADP,0.037563407999235465
+26,background,ei391,"inorganic potassium fertiliser, as K2O",S0_compost,FE,0.6001744264686876
+27,background,ei391,"inorganic potassium fertiliser, as K2O",S0_compost,GWP100,2880.655844546098
+28,background,ei391,"inorganic potassium fertiliser, as K2O",S0_compost,ME,0.31096310791712817
+29,background,ei391,"inorganic potassium fertiliser, as K2O",S0_compost,WC,35.57913095928993
+30,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_compost,ADP,0.0
+31,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_compost,FE,0.0
+32,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_compost,GWP100,0.0
+33,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_compost,ME,0.0
+34,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_compost,WC,0.0
+35,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_compost,ADP,0.0
+36,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_compost,FE,0.0
+37,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_compost,GWP100,0.0
+38,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_compost,ME,0.0
+39,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_compost,WC,0.0
+40,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,ADP,-0.06066165394842053
+41,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,FE,-8.02582259718675
+42,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,GWP100,-12202.039869367087
+43,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,ME,-0.435506651052589
+44,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,WC,-47.657129768206765
+45,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_compost,ADP,0.08880012929875063
+46,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_compost,FE,1.6687999575151808
+47,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_compost,GWP100,5875.821198627733
+48,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_compost,ME,1.1242574425380976
+49,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_compost,WC,149.76480069019655
+50,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,ADP,0.006283568532648783
+51,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,FE,0.17417627650565742
+52,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,GWP100,434.9796091018266
+53,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,ME,0.05095338556470433
+54,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,WC,5.795595354159511
+55,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_compost,ADP,0.04303935628833875
+56,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_compost,FE,0.8522247069536193
+57,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_compost,GWP100,2835.1293016104746
+58,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_compost,ME,0.32050766941567166
+59,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_compost,WC,35.09898045527585
+60,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_compost,ADP,0.0
+61,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_compost,FE,0.0
+62,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_compost,GWP100,0.0
+63,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_compost,ME,0.0
+64,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_compost,WC,0.0
+65,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_compost,ADP,0.0
+66,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_compost,FE,0.0
+67,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_compost,GWP100,0.0
+68,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_compost,ME,0.0
+69,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_compost,WC,0.0
+70,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,ADP,-0.06278985959143558
+71,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,FE,-0.6278511796812559
+72,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,GWP100,-8572.754254403833
+73,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,ME,0.008969163395608434
+74,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,WC,-41.64688120741228
+75,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_compost,ADP,0.08920020398546558
+76,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_compost,FE,0.6880884859091388
+77,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_compost,GWP100,5223.2099323161
+78,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_compost,ME,1.0655551788087814
+79,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_compost,WC,148.87885456658563
+80,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,ADP,0.006322007453172817
+81,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,FE,0.07399057693380287
+82,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,GWP100,373.35150566062237
+83,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,ME,0.04494270272097722
+84,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,WC,5.7075504290791494
+85,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_compost,ADP,0.04325186462318572
+86,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_compost,FE,0.3678185068097571
+87,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_compost,GWP100,2497.2548704421333
+88,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_compost,ME,0.2914352201478972
+89,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_compost,WC,34.656438279716234
+90,background,ei391,Ammonium sulphate at WWTP,S0_compost,FE_Reg,0.0
+91,background,ei391,Ammonium sulphate at WWTP,S0_compost,ME_Reg,0.0
+92,background,ei391,Struvite at WWTP,S0_compost,FE_Reg,0.0
+93,background,ei391,Struvite at WWTP,S0_compost,ME_Reg,0.0
+94,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,FE_Reg,-0.9687851006182813
+95,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,ME_Reg,-0.06616040140432906
+96,background,ei391,"inorganic nitrogen fertiliser, as N",S0_compost,FE_Reg,1.1946607084407623
+97,background,ei391,"inorganic nitrogen fertiliser, as N",S0_compost,ME_Reg,1.1033735639163165
+98,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_compost,FE_Reg,0.12373248338663523
+99,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_compost,ME_Reg,0.048749873469119194
+100,background,ei391,"inorganic potassium fertiliser, as K2O",S0_compost,FE_Reg,0.6001744264686876
+101,background,ei391,"inorganic potassium fertiliser, as K2O",S0_compost,ME_Reg,0.31096310791712817
+102,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_compost,FE_Reg,0.0
+103,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_compost,ME_Reg,0.0
+104,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_compost,FE_Reg,0.0
+105,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_compost,ME_Reg,0.0
+106,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,FE_Reg,-8.02582259718675
+107,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,ME_Reg,-0.435506651052589
+108,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_compost,FE_Reg,1.6687999575151808
+109,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_compost,ME_Reg,1.1242574425380976
+110,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,FE_Reg,0.17417627650565742
+111,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,ME_Reg,0.05095338556470433
+112,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_compost,FE_Reg,0.8522247069536193
+113,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_compost,ME_Reg,0.32050766941567166
+114,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_compost,FE_Reg,0.0
+115,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_compost,ME_Reg,0.0
+116,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_compost,FE_Reg,0.0
+117,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_compost,ME_Reg,0.0
+118,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,FE_Reg,-0.6278511796812559
+119,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,ME_Reg,0.008969163395608434
+120,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_compost,FE_Reg,0.6880884859091388
+121,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_compost,ME_Reg,1.0655551788087814
+122,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,FE_Reg,0.07399057693380287
+123,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,ME_Reg,0.04494270272097722
+124,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_compost,FE_Reg,0.3678185068097571
+125,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_compost,ME_Reg,0.2914352201478972
+126,foreground,ei391,Phosphate,S0_compost,FE,0.42383945551584157
+127,foreground,ei391,Phosphate,S0_compost,FE_Reg,0.000903873433619297
+128,foreground,ei391,CH4,S0_compost,GWP100,0.0
+129,foreground,ei391,CO2,S0_compost,GWP100,0.0
+130,foreground,ei391,N2O,S0_compost,GWP100,8284.533629545223
+131,foreground,ei391,Nitrate,S0_compost,ME,67.64650670948977
+132,foreground,ei391,Nitrate,S0_compost,ME_Reg,260.73488393970143
+133,foreground,ei391,Irrigation,S0_compost,WC,23652.19407986375
+134,foreground,ei391_Image_SSP2_Base_50,Phosphate,S0_compost,FE,0.42383945551584157
+135,foreground,ei391_Image_SSP2_Base_50,Phosphate,S0_compost,FE_Reg,0.000903873433619297
+136,foreground,ei391_Image_SSP2_Base_50,CH4,S0_compost,GWP100,0.0
+137,foreground,ei391_Image_SSP2_Base_50,CO2,S0_compost,GWP100,0.0
+138,foreground,ei391_Image_SSP2_Base_50,N2O,S0_compost,GWP100,8284.533629545223
+139,foreground,ei391_Image_SSP2_Base_50,Nitrate,S0_compost,ME,67.64650670948977
+140,foreground,ei391_Image_SSP2_Base_50,Nitrate,S0_compost,ME_Reg,260.73488393970143
+141,foreground,ei391_Image_SSP2_Base_50,Irrigation,S0_compost,WC,23652.19407986375
+142,foreground,ei391_Image_SSP2_RCP26_50,Phosphate,S0_compost,FE,0.42383945551584157
+143,foreground,ei391_Image_SSP2_RCP26_50,Phosphate,S0_compost,FE_Reg,0.000903873433619297
+144,foreground,ei391_Image_SSP2_RCP26_50,CH4,S0_compost,GWP100,0.0
+145,foreground,ei391_Image_SSP2_RCP26_50,CO2,S0_compost,GWP100,0.0
+146,foreground,ei391_Image_SSP2_RCP26_50,N2O,S0_compost,GWP100,8284.533629545223
+147,foreground,ei391_Image_SSP2_RCP26_50,Nitrate,S0_compost,ME,67.64650670948977
+148,foreground,ei391_Image_SSP2_RCP26_50,Nitrate,S0_compost,ME_Reg,260.73488393970143
+149,foreground,ei391_Image_SSP2_RCP26_50,Irrigation,S0_compost,WC,23652.19407986375

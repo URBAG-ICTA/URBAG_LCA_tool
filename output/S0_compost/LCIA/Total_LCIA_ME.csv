@@ -1,0 +1,22 @@
+,LCIA,database,product,Scenario,imp_cat,imp_yr
+3,background,ei391,Ammonium sulphate at WWTP,S0_compost,ME,0.0
+8,background,ei391,Struvite at WWTP,S0_compost,ME,0.0
+13,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,ME,-0.06616040140432906
+18,background,ei391,"inorganic nitrogen fertiliser, as N",S0_compost,ME,1.1033735639163165
+23,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_compost,ME,0.048749873469119194
+28,background,ei391,"inorganic potassium fertiliser, as K2O",S0_compost,ME,0.31096310791712817
+33,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_compost,ME,0.0
+38,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_compost,ME,0.0
+43,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,ME,-0.435506651052589
+48,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_compost,ME,1.1242574425380976
+53,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,ME,0.05095338556470433
+58,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_compost,ME,0.32050766941567166
+63,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_compost,ME,0.0
+68,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_compost,ME,0.0
+73,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_compost,ME,0.008969163395608434
+78,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_compost,ME,1.0655551788087814
+83,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_compost,ME,0.04494270272097722
+88,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_compost,ME,0.2914352201478972
+131,foreground,ei391,Nitrate,S0_compost,ME,67.64650670948977
+139,foreground,ei391_Image_SSP2_Base_50,Nitrate,S0_compost,ME,67.64650670948977
+147,foreground,ei391_Image_SSP2_RCP26_50,Nitrate,S0_compost,ME,67.64650670948977
