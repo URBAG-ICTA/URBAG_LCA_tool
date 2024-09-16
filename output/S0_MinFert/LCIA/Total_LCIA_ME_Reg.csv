@@ -1,0 +1,22 @@
+,LCIA,database,product,Scenario,imp_cat,imp_yr
+91,background,ei391,Ammonium sulphate at WWTP,S0_MinFert,ME_Reg,0.0
+93,background,ei391,Struvite at WWTP,S0_MinFert,ME_Reg,0.0
+95,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_MinFert,ME_Reg,0.0
+97,background,ei391,"inorganic nitrogen fertiliser, as N",S0_MinFert,ME_Reg,1.130233071661035
+99,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_MinFert,ME_Reg,0.07756050597921534
+101,background,ei391,"inorganic potassium fertiliser, as K2O",S0_MinFert,ME_Reg,0.3275092841483008
+103,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_MinFert,ME_Reg,0.0
+105,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_MinFert,ME_Reg,0.0
+107,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_MinFert,ME_Reg,0.0
+109,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_MinFert,ME_Reg,1.151625328150408
+111,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_MinFert,ME_Reg,0.08106626919259403
+113,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_MinFert,ME_Reg,0.33756170652353146
+115,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_MinFert,ME_Reg,0.0
+117,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_MinFert,ME_Reg,0.0
+119,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_MinFert,ME_Reg,0.0
+121,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_MinFert,ME_Reg,1.0914940706887484
+123,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_MinFert,ME_Reg,0.0715033397024206
+125,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_MinFert,ME_Reg,0.3069423281930831
+132,foreground,ei391,Nitrate,S0_MinFert,ME_Reg,254.42043246684713
+140,foreground,ei391_Image_SSP2_Base_50,Nitrate,S0_MinFert,ME_Reg,254.42043246684713
+148,foreground,ei391_Image_SSP2_RCP26_50,Nitrate,S0_MinFert,ME_Reg,254.42043246684713
