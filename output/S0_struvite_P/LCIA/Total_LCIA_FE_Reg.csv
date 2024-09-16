@@ -1,0 +1,22 @@
+,LCIA,database,product,Scenario,imp_cat,imp_yr
+90,background,ei391,Ammonium sulphate at WWTP,S0_struvite_P,FE_Reg,0.0
+92,background,ei391,Struvite at WWTP,S0_struvite_P,FE_Reg,0.28618097292528816
+94,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_struvite_P,FE_Reg,0.0
+96,background,ei391,"inorganic nitrogen fertiliser, as N",S0_struvite_P,FE_Reg,1.1535629625934254
+98,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_struvite_P,FE_Reg,0.0
+100,background,ei391,"inorganic potassium fertiliser, as K2O",S0_struvite_P,FE_Reg,0.6321093781621867
+102,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_struvite_P,FE_Reg,0.0
+104,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_struvite_P,FE_Reg,0.2779273591136501
+106,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_struvite_P,FE_Reg,0.0
+108,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_struvite_P,FE_Reg,1.6113912589286847
+110,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_struvite_P,FE_Reg,0.0
+112,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_struvite_P,FE_Reg,0.8975711156780009
+114,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_struvite_P,FE_Reg,0.0
+116,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_struvite_P,FE_Reg,0.06569819612745965
+118,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_struvite_P,FE_Reg,0.0
+120,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_struvite_P,FE_Reg,0.6644174255699389
+122,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_struvite_P,FE_Reg,0.0
+124,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_struvite_P,FE_Reg,0.38738992759830587
+127,foreground,ei391,Phosphate,S0_struvite_P,FE_Reg,0.0
+135,foreground,ei391_Image_SSP2_Base_50,Phosphate,S0_struvite_P,FE_Reg,0.0
+143,foreground,ei391_Image_SSP2_RCP26_50,Phosphate,S0_struvite_P,FE_Reg,0.0

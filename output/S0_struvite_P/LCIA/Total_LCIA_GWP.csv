@@ -1,0 +1,28 @@
+,LCIA,database,product,Scenario,imp_cat,imp_yr
+2,background,ei391,Ammonium sulphate at WWTP,S0_struvite_P,GWP100,0.0
+7,background,ei391,Struvite at WWTP,S0_struvite_P,GWP100,521.2387531924155
+12,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_struvite_P,GWP100,0.0
+17,background,ei391,"inorganic nitrogen fertiliser, as N",S0_struvite_P,GWP100,5634.422148658501
+22,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_struvite_P,GWP100,0.0
+27,background,ei391,"inorganic potassium fertiliser, as K2O",S0_struvite_P,GWP100,3033.9339603472804
+32,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_struvite_P,GWP100,0.0
+37,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_struvite_P,GWP100,478.44325444704634
+42,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_struvite_P,GWP100,0.0
+47,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_struvite_P,GWP100,5673.685977673849
+52,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_struvite_P,GWP100,0.0
+57,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_struvite_P,GWP100,2985.9849750593976
+62,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_struvite_P,GWP100,0.0
+67,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_struvite_P,GWP100,165.64682696695473
+72,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_struvite_P,GWP100,0.0
+77,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_struvite_P,GWP100,5043.5253132531825
+82,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_struvite_P,GWP100,0.0
+87,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_struvite_P,GWP100,2630.1324309259367
+128,foreground,ei391,CH4,S0_struvite_P,GWP100,0.0
+129,foreground,ei391,CO2,S0_struvite_P,GWP100,0.0
+130,foreground,ei391,N2O,S0_struvite_P,GWP100,7690.52239701359
+136,foreground,ei391_Image_SSP2_Base_50,CH4,S0_struvite_P,GWP100,0.0
+137,foreground,ei391_Image_SSP2_Base_50,CO2,S0_struvite_P,GWP100,0.0
+138,foreground,ei391_Image_SSP2_Base_50,N2O,S0_struvite_P,GWP100,7690.52239701359
+144,foreground,ei391_Image_SSP2_RCP26_50,CH4,S0_struvite_P,GWP100,0.0
+145,foreground,ei391_Image_SSP2_RCP26_50,CO2,S0_struvite_P,GWP100,0.0
+146,foreground,ei391_Image_SSP2_RCP26_50,N2O,S0_struvite_P,GWP100,7690.52239701359

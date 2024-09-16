@@ -1,0 +1,22 @@
+,LCIA,database,product,Scenario,imp_cat,imp_yr
+3,background,ei391,Ammonium sulphate at WWTP,S0_struvite_P,ME,0.0
+8,background,ei391,Struvite at WWTP,S0_struvite_P,ME,-0.00326273960060756
+13,background,ei391,"compost, market for compost Metropolitan Area of Barcelona",S0_struvite_P,ME,0.0
+18,background,ei391,"inorganic nitrogen fertiliser, as N",S0_struvite_P,ME,1.0654162041537378
+23,background,ei391,"inorganic phosphorus fertiliser, as P2O5",S0_struvite_P,ME,0.0
+28,background,ei391,"inorganic potassium fertiliser, as K2O",S0_struvite_P,ME,0.3275092841483008
+33,background,ei391_Image_SSP2_Base_50,Ammonium sulphate at WWTP,S0_struvite_P,ME,0.0
+38,background,ei391_Image_SSP2_Base_50,Struvite at WWTP,S0_struvite_P,ME,-0.0054274628723539045
+43,background,ei391_Image_SSP2_Base_50,"compost, market for compost Metropolitan Area of Barcelona",S0_struvite_P,ME,0.0
+48,background,ei391_Image_SSP2_Base_50,"inorganic nitrogen fertiliser, as N",S0_struvite_P,ME,1.085581652571997
+53,background,ei391_Image_SSP2_Base_50,"inorganic phosphorus fertiliser, as P2O5",S0_struvite_P,ME,0.0
+58,background,ei391_Image_SSP2_Base_50,"inorganic potassium fertiliser, as K2O",S0_struvite_P,ME,0.33756170652353146
+63,background,ei391_Image_SSP2_RCP26_50,Ammonium sulphate at WWTP,S0_struvite_P,ME,0.0
+68,background,ei391_Image_SSP2_RCP26_50,Struvite at WWTP,S0_struvite_P,ME,-0.017559825675591834
+73,background,ei391_Image_SSP2_RCP26_50,"compost, market for compost Metropolitan Area of Barcelona",S0_struvite_P,ME,0.0
+78,background,ei391_Image_SSP2_RCP26_50,"inorganic nitrogen fertiliser, as N",S0_struvite_P,ME,1.0288988163657973
+83,background,ei391_Image_SSP2_RCP26_50,"inorganic phosphorus fertiliser, as P2O5",S0_struvite_P,ME,0.0
+88,background,ei391_Image_SSP2_RCP26_50,"inorganic potassium fertiliser, as K2O",S0_struvite_P,ME,0.3069423281930831
+131,foreground,ei391,Nitrate,S0_struvite_P,ME,62.27356770057688
+139,foreground,ei391_Image_SSP2_Base_50,Nitrate,S0_struvite_P,ME,62.27356770057688
+147,foreground,ei391_Image_SSP2_RCP26_50,Nitrate,S0_struvite_P,ME,62.27356770057688
