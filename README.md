@@ -8,11 +8,11 @@ The documention is currently under revision. Please contact gara.villalba@uab.ca
 A python tool to calcualte a prospective-regionalized LCA of peri-UA areas detailed in a map potentially comparing circular and linear sources of nutrients, as well as water requirements and impacts.
 
 # Requirements
-Python 3.11 or 3.12
-License for ecoinvent 3. Please note that the ecoinvent database is not included in this package. Also, read ecoinvent's GDPR & EULA.
-Map of peri-UA areas.
-Emission factors for circular and linear products (default provided).
-Footprints of impacts of circular products (the ones provided are for the Metropolitan Area of Barcelona only).
+- Python 3.11 or 3.12
+- License for ecoinvent 3. Please note that the ecoinvent database is not included in this package. Also, read ecoinvent's GDPR & EULA.
+- Map of peri-UA areas with specifications on yields, nutrient requirements, regional N2O emissin factors, etc..
+- Emission factors for circular and linear products (default provided for case study).
+- Footprints of impacts of circular products (the ones provided are for the case study of the Metropolitan Area of Barcelona).
 
 # How to use it?
 1. Download the zip. 
