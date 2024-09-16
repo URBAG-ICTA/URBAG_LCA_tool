@@ -40,9 +40,9 @@ Results should be reported in the output folder for each scenario selected.
 gara.villalba@uab.cat
 
 # Contributors
-Angelica Mendoza Beltran.
-Gara Villalba.
-Erin Untereiner.  
+- Angelica Mendoza Beltran.
+- Gara Villalba.
+- Erin Untereiner.  
 
 # References
 Under development. 
